@@ -1,4 +1,4 @@
-# gurobi-optimisation-project
+# Gurobi-Optimisation-Project
 
 ##  Project Overview
 
