@@ -1,5 +1,4 @@
 # gurobi-optimisation-project
-# Gurobi Optimization Methods for Analytics
 
 ##  Project Overview
 
