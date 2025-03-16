@@ -34,5 +34,4 @@ This project applies optimization techniques to various domains, including:
 
 - Provides **step-by-step implementations** of optimization models with clear explanations.
 - Helps understand how **to formulate and solve optimization problems** using Gurobi.
-- Serves as a **valuable resource** for students, data scientists, and operations researchers.
 - Can be extended to **custom real-world problems** in different industries.
