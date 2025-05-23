@@ -1,4 +1,4 @@
-# Burrito Game Optimization Model
+# Optimizing Multi-Day Truck Deployment for Profit Maximization
 
 ##  Project Overview
 
