@@ -1,4 +1,4 @@
-# Gurobi-Optimisation-Project
+# Burrito Game Optimization Model
 
 ##  Project Overview
 
